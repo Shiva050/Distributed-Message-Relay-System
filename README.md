@@ -48,3 +48,6 @@ Distributed-Message-Relay-System/
 ## Architecture
 High level flow
 Producer ──▶ Message Relay ──▶ Consumer(s)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/29e81e1a-f173-429a-860c-efac53374eab" />
+
